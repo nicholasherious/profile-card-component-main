@@ -20,7 +20,7 @@ Made a simple profile card to sharpen up on my CSS.  Probably will add some chan
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://fanciful-pony-e9734e.netlify.app/)
+- Live Site URL: [https://fanciful-pony-e9734e.netlify.app/](https://fanciful-pony-e9734e.netlify.app/)
 
 ## My process
 
